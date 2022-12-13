@@ -1,0 +1,2 @@
+def frederik():
+	return "Frederik"
