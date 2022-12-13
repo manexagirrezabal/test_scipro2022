@@ -1,2 +1,2 @@
-def frederik():
+def frederik(x):
 	return "Frederik"
